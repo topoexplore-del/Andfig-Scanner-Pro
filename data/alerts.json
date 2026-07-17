@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-17 16:43:33 (Hora Colombia)",
+  "checked_at": "2026-07-17 17:35:27 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,11 +10,81 @@
     "drawdown_52w_pct": -1.89,
     "realized_vol_20d": 12.2
   },
-  "confirmed": 0,
-  "signals": [],
-  "watchlist": [
+  "confirmed": 3,
+  "signals": [
     {
       "ticker": "CF",
+      "composite": 100,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -23.3,
+      "rs_rank": 19,
+      "asof": "2026-07-17",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 120.16,
+        "tp1": 124.35,
+        "tp2": 128.54,
+        "sl": 113.88
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "INCY",
+      "composite": 90,
+      "prob": 95,
+      "buffett": 90,
+      "mos": -42.9,
+      "rs_rank": 83,
+      "asof": "2026-07-17",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 116.19,
+        "tp1": 119.74,
+        "tp2": 123.29,
+        "sl": 110.86
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "EFAV",
+      "composite": 15,
+      "prob": 63,
+      "buffett": 5,
+      "mos": null,
+      "rs_rank": 26,
+      "asof": "2026-07-17",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 90.82,
+        "tp1": 91.58,
+        "tp2": 92.34,
+        "sl": 89.68
+      },
+      "periods": [
+        "1-3 Meses"
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "APA",
       "failed": [
         "Radar"
       ]
@@ -32,15 +102,9 @@
       ]
     },
     {
-      "ticker": "CBOE",
+      "ticker": "KTB",
       "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "INCY",
-      "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
@@ -50,9 +114,9 @@
       ]
     },
     {
-      "ticker": "WDFC",
+      "ticker": "SEIC",
       "failed": [
-        "Radar"
+        "Earnings en 5d (blackout)"
       ]
     },
     {
@@ -74,9 +138,27 @@
       ]
     },
     {
+      "ticker": "RSI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "SEZL",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "WTS",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "PLBC",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -86,19 +168,7 @@
       ]
     },
     {
-      "ticker": "NDAQ",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "KRT",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "KRT",
+      "ticker": "OTTR",
       "failed": [
         "Radar"
       ]
