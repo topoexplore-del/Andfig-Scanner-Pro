@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-20 16:58:29 (Hora Colombia)",
+  "checked_at": "2026-07-20 17:53:15 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,24 +10,24 @@
     "drawdown_52w_pct": -2.05,
     "realized_vol_20d": 11.7
   },
-  "confirmed": 3,
+  "confirmed": 4,
   "signals": [
     {
       "ticker": "CF",
       "composite": 100,
       "prob": 95,
       "buffett": 85,
-      "mos": -23.3,
-      "rs_rank": 19,
-      "asof": "2026-07-17",
+      "mos": -24.6,
+      "rs_rank": 67,
+      "asof": "2026-07-20",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 120.16,
-        "tp1": 124.35,
-        "tp2": 128.54,
-        "sl": 113.88
+        "entry": 122.3,
+        "tp1": 126.52,
+        "tp2": 130.74,
+        "sl": 115.97
       },
       "periods": [
         "1 Semana",
@@ -38,26 +38,46 @@
       ]
     },
     {
-      "ticker": "INCY",
-      "composite": 90,
+      "ticker": "HXL",
+      "composite": 56,
       "prob": 95,
-      "buffett": 90,
-      "mos": -42.9,
-      "rs_rank": 83,
-      "asof": "2026-07-17",
+      "buffett": 25,
+      "mos": -77.4,
+      "rs_rank": 82,
+      "asof": "2026-07-20",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 116.19,
-        "tp1": 119.74,
-        "tp2": 123.29,
-        "sl": 110.86
+        "entry": 104.79,
+        "tp1": 107.91,
+        "tp2": 111.03,
+        "sl": 100.11
       },
       "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
+        "1 Semana",
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "LVHI",
+      "composite": 25,
+      "prob": 65,
+      "buffett": 5,
+      "mos": null,
+      "rs_rank": 50,
+      "asof": "2026-07-20",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 41.53,
+        "tp1": 41.84,
+        "tp2": 42.15,
+        "sl": 41.06
+      },
+      "periods": [
+        "1 Mes"
       ]
     },
     {
@@ -66,16 +86,16 @@
       "prob": 63,
       "buffett": 5,
       "mos": null,
-      "rs_rank": 26,
-      "asof": "2026-07-17",
+      "rs_rank": 27,
+      "asof": "2026-07-20",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 90.82,
-        "tp1": 91.58,
-        "tp2": 92.34,
-        "sl": 89.68
+        "entry": 90.4,
+        "tp1": 91.14,
+        "tp2": 91.88,
+        "sl": 89.29
       },
       "periods": [
         "1-3 Meses"
@@ -102,9 +122,21 @@
       ]
     },
     {
-      "ticker": "KTB",
+      "ticker": "CBOE",
       "failed": [
-        "Analysis"
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "INCY",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ACN",
+      "failed": [
+        "Radar"
       ]
     },
     {
@@ -114,15 +146,21 @@
       ]
     },
     {
-      "ticker": "SEIC",
+      "ticker": "WDFC",
       "failed": [
-        "Earnings en 5d (blackout)"
+        "Radar"
       ]
     },
     {
-      "ticker": "AFL",
+      "ticker": "VIPS",
       "failed": [
-        "Analysis"
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SEIC",
+      "failed": [
+        "Earnings en 2d (blackout)"
       ]
     },
     {
@@ -138,6 +176,12 @@
       ]
     },
     {
+      "ticker": "PODD",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "RSI",
       "failed": [
         "Radar"
@@ -145,30 +189,6 @@
     },
     {
       "ticker": "SEZL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "WTS",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "PLBC",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "NBIX",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "OTTR",
       "failed": [
         "Radar"
       ]
