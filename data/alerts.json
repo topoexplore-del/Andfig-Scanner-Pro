@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-21 16:57:00 (Hora Colombia)",
+  "checked_at": "2026-07-21 17:53:37 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -13,28 +13,27 @@
   "confirmed": 5,
   "signals": [
     {
-      "ticker": "CF",
-      "composite": 100,
+      "ticker": "NBIX",
+      "composite": 79,
       "prob": 95,
       "buffett": 85,
-      "mos": -24.6,
-      "rs_rank": 67,
-      "asof": "2026-07-20",
+      "mos": -60.7,
+      "rs_rank": 93,
+      "asof": "2026-07-21",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 122.3,
-        "tp1": 126.52,
-        "tp2": 130.74,
-        "sl": 115.97
+        "entry": 177.63,
+        "tp1": 182.35,
+        "tp2": 187.07,
+        "sl": 170.55
       },
       "periods": [
         "1 Semana",
         "1 Mes",
         "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
+        "6 Meses"
       ]
     },
     {
@@ -43,7 +42,7 @@
       "prob": 95,
       "buffett": 40,
       "mos": -71.4,
-      "rs_rank": 78,
+      "rs_rank": 76,
       "asof": "2026-07-21",
       "live": null,
       "status": null,
@@ -61,64 +60,63 @@
       ]
     },
     {
-      "ticker": "HXL",
-      "composite": 56,
+      "ticker": "LVHI",
+      "composite": 25,
       "prob": 95,
-      "buffett": 25,
-      "mos": -77.4,
-      "rs_rank": 82,
-      "asof": "2026-07-20",
+      "buffett": 5,
+      "mos": null,
+      "rs_rank": 52,
+      "asof": "2026-07-21",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 104.79,
-        "tp1": 107.91,
-        "tp2": 111.03,
-        "sl": 100.11
+        "entry": 41.96,
+        "tp1": 42.28,
+        "tp2": 42.6,
+        "sl": 41.48
       },
       "periods": [
-        "1 Semana",
-        "3 Meses"
+        "1-3 Meses"
       ]
     },
     {
-      "ticker": "LVHI",
+      "ticker": "DFSV",
+      "composite": 25,
+      "prob": 69,
+      "buffett": 5,
+      "mos": null,
+      "rs_rank": 59,
+      "asof": "2026-07-21",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 39.41,
+        "tp1": 39.89,
+        "tp2": 40.37,
+        "sl": 38.69
+      },
+      "periods": [
+        "1-3 Meses"
+      ]
+    },
+    {
+      "ticker": "AVUV",
       "composite": 25,
       "prob": 65,
       "buffett": 5,
       "mos": null,
-      "rs_rank": 50,
-      "asof": "2026-07-20",
+      "rs_rank": 61,
+      "asof": "2026-07-21",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 41.53,
-        "tp1": 41.84,
-        "tp2": 42.15,
-        "sl": 41.06
-      },
-      "periods": [
-        "1 Mes"
-      ]
-    },
-    {
-      "ticker": "EFAV",
-      "composite": 15,
-      "prob": 63,
-      "buffett": 5,
-      "mos": null,
-      "rs_rank": 27,
-      "asof": "2026-07-20",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 90.4,
-        "tp1": 91.14,
-        "tp2": 91.88,
-        "sl": 89.29
+        "entry": 125.6,
+        "tp1": 127.12,
+        "tp2": 128.64,
+        "sl": 123.32
       },
       "periods": [
         "1-3 Meses"
@@ -126,6 +124,12 @@
     }
   ],
   "watchlist": [
+    {
+      "ticker": "CF",
+      "failed": [
+        "Radar"
+      ]
+    },
     {
       "ticker": "APA",
       "failed": [
@@ -145,31 +149,13 @@
       ]
     },
     {
-      "ticker": "CBOE",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "INCY",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "ACN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "VRTX",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "WDFC",
       "failed": [
         "Radar"
       ]
@@ -183,7 +169,13 @@
     {
       "ticker": "SEIC",
       "failed": [
-        "Earnings en 2d (blackout)"
+        "Earnings en 1d (blackout)"
+      ]
+    },
+    {
+      "ticker": "CB",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -199,12 +191,6 @@
       ]
     },
     {
-      "ticker": "PODD",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "ANET",
       "failed": [
         "Radar"
@@ -212,6 +198,18 @@
     },
     {
       "ticker": "RSI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SEZL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "CRS",
       "failed": [
         "Radar"
       ]
