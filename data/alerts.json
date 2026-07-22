@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-07-22 13:58:11 (Hora Colombia)",
+  "checked_at": "2026-07-22 16:58:04 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 748.38,
-    "spy_sma200": 694.7,
-    "spy_vs_sma200_pct": 7.73,
-    "drawdown_52w_pct": -1.22,
-    "realized_vol_20d": 10.6
+    "spy_price": 747.41,
+    "spy_sma200": 694.69,
+    "spy_vs_sma200_pct": 7.59,
+    "drawdown_52w_pct": -1.35,
+    "realized_vol_20d": 10.7
   },
-  "confirmed": 5,
+  "confirmed": 4,
   "signals": [
     {
       "ticker": "NBIX",
@@ -31,29 +31,6 @@
       },
       "periods": [
         "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "RELY",
-      "composite": 61,
-      "prob": 95,
-      "buffett": 40,
-      "mos": -71.4,
-      "rs_rank": 77,
-      "asof": "2026-07-21",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 23.56,
-        "tp1": 24.46,
-        "tp2": 25.36,
-        "sl": 22.21
-      },
-      "periods": [
         "1 Mes",
         "3 Meses",
         "6 Meses"
@@ -155,6 +132,12 @@
       ]
     },
     {
+      "ticker": "NVDA",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "VRTX",
       "failed": [
         "Radar"
@@ -204,12 +187,6 @@
     },
     {
       "ticker": "SEZL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "CRS",
       "failed": [
         "Radar"
       ]
