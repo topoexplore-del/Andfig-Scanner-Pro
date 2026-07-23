@@ -1,41 +1,17 @@
 {
-  "checked_at": "2026-07-23 14:00:15 (Hora Colombia)",
+  "checked_at": "2026-07-23 16:58:54 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 736.7,
+    "spy_price": 738.18,
     "spy_sma200": 695.06,
-    "spy_vs_sma200_pct": 5.99,
-    "drawdown_52w_pct": -2.76,
-    "realized_vol_20d": 12.0
+    "spy_vs_sma200_pct": 6.2,
+    "drawdown_52w_pct": -2.57,
+    "realized_vol_20d": 11.7
   },
   "confirmed": 3,
   "signals": [
-    {
-      "ticker": "NVDA",
-      "composite": 85,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -83.8,
-      "rs_rank": 50,
-      "asof": "2026-07-22",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 209.85,
-        "tp1": 217.2,
-        "tp2": 224.55,
-        "sl": 198.82
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
     {
       "ticker": "NBIX",
       "composite": 79,
@@ -79,6 +55,28 @@
       "periods": [
         "1 Semana",
         "3 Meses"
+      ]
+    },
+    {
+      "ticker": "XLE",
+      "composite": 15,
+      "prob": 63,
+      "buffett": 0,
+      "mos": null,
+      "rs_rank": 54,
+      "asof": "2026-07-23",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 59.05,
+        "tp1": 60.15,
+        "tp2": 61.25,
+        "sl": 57.4
+      },
+      "periods": [
+        "1 Semana",
+        "1-3 Meses"
       ]
     }
   ],
@@ -138,6 +136,12 @@
       ]
     },
     {
+      "ticker": "NVDA",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "WDFC",
       "failed": [
         "Radar"
@@ -163,12 +167,6 @@
     },
     {
       "ticker": "TROW",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "A",
       "failed": [
         "Radar"
       ]
