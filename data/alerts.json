@@ -1,17 +1,41 @@
 {
-  "checked_at": "2026-07-22 18:09:50 (Hora Colombia)",
+  "checked_at": "2026-07-23 11:22:30 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 747.41,
-    "spy_sma200": 694.69,
-    "spy_vs_sma200_pct": 7.59,
-    "drawdown_52w_pct": -1.35,
-    "realized_vol_20d": 10.7
+    "spy_price": 738.62,
+    "spy_sma200": 695.07,
+    "spy_vs_sma200_pct": 6.27,
+    "drawdown_52w_pct": -2.51,
+    "realized_vol_20d": 11.6
   },
-  "confirmed": 2,
+  "confirmed": 3,
   "signals": [
+    {
+      "ticker": "NVDA",
+      "composite": 85,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -83.8,
+      "rs_rank": 50,
+      "asof": "2026-07-22",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 209.85,
+        "tp1": 217.2,
+        "tp2": 224.55,
+        "sl": 198.82
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
     {
       "ticker": "NBIX",
       "composite": 79,
@@ -114,12 +138,6 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "WDFC",
       "failed": [
         "Radar"
@@ -145,6 +163,12 @@
     },
     {
       "ticker": "TROW",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "A",
       "failed": [
         "Radar"
       ]
