@@ -1,60 +1,39 @@
 {
-  "checked_at": "2026-07-27 16:59:14 (Hora Colombia)",
+  "checked_at": "2026-07-27 18:00:38 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
     "spy_price": 739.09,
-    "spy_sma200": 695.81,
-    "spy_vs_sma200_pct": 6.22,
+    "spy_sma200": 695.43,
+    "spy_vs_sma200_pct": 6.28,
     "drawdown_52w_pct": -2.45,
-    "realized_vol_20d": 11.3
+    "realized_vol_20d": 11.7
   },
-  "confirmed": 4,
+  "confirmed": 5,
   "signals": [
     {
-      "ticker": "SEIC",
-      "composite": 84,
-      "prob": 95,
-      "buffett": 90,
-      "mos": -48.6,
-      "rs_rank": 66,
-      "asof": "2026-07-24",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 98.43,
-        "tp1": 101.06,
-        "tp2": 103.69,
-        "sl": 94.49
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "EMR",
+      "ticker": "OVV",
       "composite": 66,
       "prob": 95,
-      "buffett": 50,
-      "mos": -59.9,
-      "rs_rank": 50,
-      "asof": "2026-07-24",
+      "buffett": 70,
+      "mos": -4.5,
+      "rs_rank": 59,
+      "asof": "2026-07-27",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 146.67,
-        "tp1": 150.89,
-        "tp2": 155.11,
-        "sl": 140.34
+        "entry": 59.57,
+        "tp1": 61.28,
+        "tp2": 62.99,
+        "sl": 57.01
       },
       "periods": [
         "1 Semana",
-        "3 Meses"
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
       ]
     },
     {
@@ -63,38 +42,79 @@
       "prob": 63,
       "buffett": 0,
       "mos": null,
-      "rs_rank": 56,
-      "asof": "2026-07-24",
+      "rs_rank": 43,
+      "asof": "2026-07-27",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 59.29,
-        "tp1": 60.39,
-        "tp2": 61.49,
-        "sl": 57.64
+        "entry": 58.03,
+        "tp1": 59.13,
+        "tp2": 60.23,
+        "sl": 56.38
       },
       "periods": [
-        "1 Semana",
         "1-3 Meses"
       ]
     },
     {
-      "ticker": "HDV",
+      "ticker": "XLE",
       "composite": 15,
       "prob": 63,
       "buffett": 0,
       "mos": null,
-      "rs_rank": 62,
-      "asof": "2026-07-24",
+      "rs_rank": 43,
+      "asof": "2026-07-27",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 28.64,
-        "tp1": 28.99,
-        "tp2": 29.34,
-        "sl": 28.12
+        "entry": 58.03,
+        "tp1": 59.13,
+        "tp2": 60.23,
+        "sl": 56.38
+      },
+      "periods": [
+        "1-3 Meses"
+      ]
+    },
+    {
+      "ticker": "SCHD",
+      "composite": 15,
+      "prob": 63,
+      "buffett": 5,
+      "mos": null,
+      "rs_rank": 60,
+      "asof": "2026-07-27",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 33.32,
+        "tp1": 33.7,
+        "tp2": 34.08,
+        "sl": 32.75
+      },
+      "periods": [
+        "1-3 Meses"
+      ]
+    },
+    {
+      "ticker": "FDL",
+      "composite": 15,
+      "prob": 63,
+      "buffett": 5,
+      "mos": null,
+      "rs_rank": 48,
+      "asof": "2026-07-27",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 51.53,
+        "tp1": 52.22,
+        "tp2": 52.91,
+        "sl": 50.5
       },
       "periods": [
         "1-3 Meses"
@@ -110,6 +130,12 @@
     },
     {
       "ticker": "VIST",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "BVN",
       "failed": [
         "Radar"
       ]
@@ -145,7 +171,25 @@
       ]
     },
     {
+      "ticker": "ACN",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "NVDA",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "HALO",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "VIPS",
       "failed": [
         "Radar"
       ]
@@ -163,31 +207,7 @@
       ]
     },
     {
-      "ticker": "A",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ANET",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "RSI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "NBIX",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "OTTR",
+      "ticker": "CRM",
       "failed": [
         "Radar"
       ]
