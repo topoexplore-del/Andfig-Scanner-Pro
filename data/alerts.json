@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-07-27 18:00:38 (Hora Colombia)",
+  "checked_at": "2026-07-28 11:31:11 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 739.09,
-    "spy_sma200": 695.43,
-    "spy_vs_sma200_pct": 6.28,
-    "drawdown_52w_pct": -2.45,
-    "realized_vol_20d": 11.7
+    "spy_price": 741.31,
+    "spy_sma200": 696.17,
+    "spy_vs_sma200_pct": 6.48,
+    "drawdown_52w_pct": -2.15,
+    "realized_vol_20d": 9.7
   },
-  "confirmed": 5,
+  "confirmed": 4,
   "signals": [
     {
       "ticker": "OVV",
@@ -34,27 +34,6 @@
         "1 Mes",
         "3 Meses",
         "6 Meses"
-      ]
-    },
-    {
-      "ticker": "XLE",
-      "composite": 15,
-      "prob": 63,
-      "buffett": 0,
-      "mos": null,
-      "rs_rank": 43,
-      "asof": "2026-07-27",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 58.03,
-        "tp1": 59.13,
-        "tp2": 60.23,
-        "sl": 56.38
-      },
-      "periods": [
-        "1-3 Meses"
       ]
     },
     {
