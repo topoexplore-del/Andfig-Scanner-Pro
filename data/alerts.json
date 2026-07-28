@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-28 16:57:48 (Hora Colombia)",
+  "checked_at": "2026-07-28 17:54:31 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,24 +10,117 @@
     "drawdown_52w_pct": -2.21,
     "realized_vol_20d": 9.7
   },
-  "confirmed": 4,
+  "confirmed": 7,
   "signals": [
     {
-      "ticker": "OVV",
-      "composite": 66,
+      "ticker": "EOG",
+      "composite": 91,
       "prob": 95,
-      "buffett": 70,
-      "mos": -4.5,
-      "rs_rank": 59,
-      "asof": "2026-07-27",
+      "buffett": 90,
+      "mos": -17.7,
+      "rs_rank": 53,
+      "asof": "2026-07-28",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 59.57,
-        "tp1": 61.28,
-        "tp2": 62.99,
-        "sl": 57.01
+        "entry": 138.51,
+        "tp1": 142.29,
+        "tp2": 146.07,
+        "sl": 132.84
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "STLD",
+      "composite": 81,
+      "prob": 95,
+      "buffett": 50,
+      "mos": -50.9,
+      "rs_rank": 74,
+      "asof": "2026-07-28",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 257.23,
+        "tp1": 265.59,
+        "tp2": 273.95,
+        "sl": 244.69
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "GWW",
+      "composite": 79,
+      "prob": 95,
+      "buffett": 60,
+      "mos": -81.1,
+      "rs_rank": 82,
+      "asof": "2026-07-28",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 1389.75,
+        "tp1": 1420.26,
+        "tp2": 1450.77,
+        "sl": 1343.98
+      },
+      "periods": [
+        "1 Semana"
+      ]
+    },
+    {
+      "ticker": "BRK/B",
+      "composite": 71,
+      "prob": 95,
+      "buffett": 45,
+      "mos": 300.0,
+      "rs_rank": 62,
+      "asof": "2026-07-28",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 510.24,
+        "tp1": 517.33,
+        "tp2": 524.42,
+        "sl": 499.61
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "SNA",
+      "composite": 69,
+      "prob": 95,
+      "buffett": 90,
+      "mos": -45.9,
+      "rs_rank": 65,
+      "asof": "2026-07-28",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 416.5,
+        "tp1": 425.87,
+        "tp2": 435.24,
+        "sl": 402.44
       },
       "periods": [
         "1 Semana",
@@ -37,65 +130,47 @@
       ]
     },
     {
-      "ticker": "XLE",
-      "composite": 15,
-      "prob": 63,
-      "buffett": 0,
-      "mos": null,
-      "rs_rank": 43,
-      "asof": "2026-07-27",
+      "ticker": "UGI",
+      "composite": 61,
+      "prob": 95,
+      "buffett": 30,
+      "mos": 8.8,
+      "rs_rank": 32,
+      "asof": "2026-07-28",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 58.03,
-        "tp1": 59.13,
-        "tp2": 60.23,
-        "sl": 56.38
+        "entry": 36.73,
+        "tp1": 37.43,
+        "tp2": 38.13,
+        "sl": 35.68
       },
       "periods": [
-        "1-3 Meses"
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
       ]
     },
     {
-      "ticker": "SCHD",
+      "ticker": "SPYD",
       "composite": 15,
       "prob": 63,
       "buffett": 5,
       "mos": null,
-      "rs_rank": 60,
-      "asof": "2026-07-27",
+      "rs_rank": 68,
+      "asof": "2026-07-28",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 33.32,
-        "tp1": 33.7,
-        "tp2": 34.08,
-        "sl": 32.75
+        "entry": 50.37,
+        "tp1": 50.95,
+        "tp2": 51.53,
+        "sl": 49.5
       },
       "periods": [
-        "1-3 Meses"
-      ]
-    },
-    {
-      "ticker": "FDL",
-      "composite": 15,
-      "prob": 63,
-      "buffett": 5,
-      "mos": null,
-      "rs_rank": 48,
-      "asof": "2026-07-27",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 51.53,
-        "tp1": 52.22,
-        "tp2": 52.91,
-        "sl": 50.5
-      },
-      "periods": [
+        "1 Semana",
         "1-3 Meses"
       ]
     }
@@ -126,19 +201,7 @@
       ]
     },
     {
-      "ticker": "EOG",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "VCTR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "CBOE",
       "failed": [
         "Radar"
       ]
@@ -156,9 +219,33 @@
       ]
     },
     {
+      "ticker": "AON",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "NVDA",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "V",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "CBOE",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "VRTX",
+      "failed": [
+        "Entry Zones"
       ]
     },
     {
@@ -174,21 +261,9 @@
       ]
     },
     {
-      "ticker": "SCCO",
+      "ticker": "KMB",
       "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "TROW",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "CRM",
-      "failed": [
-        "Radar"
+        "Analysis"
       ]
     }
   ]
