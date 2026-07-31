@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-07-31 14:07:55 (Hora Colombia)",
+  "checked_at": "2026-07-31 16:58:35 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 745.93,
-    "spy_sma200": 697.4,
-    "spy_vs_sma200_pct": 6.96,
-    "drawdown_52w_pct": -1.54,
-    "realized_vol_20d": 12.6
+    "spy_price": 747.03,
+    "spy_sma200": 697.41,
+    "spy_vs_sma200_pct": 7.12,
+    "drawdown_52w_pct": -1.4,
+    "realized_vol_20d": 12.7
   },
-  "confirmed": 3,
+  "confirmed": 4,
   "signals": [
     {
       "ticker": "INCY",
@@ -79,6 +79,28 @@
         "1 Semana",
         "3 Meses",
         "6 Meses"
+      ]
+    },
+    {
+      "ticker": "EWZ",
+      "composite": 25,
+      "prob": 62,
+      "buffett": 5,
+      "mos": null,
+      "rs_rank": 13,
+      "asof": "2026-07-31",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 36.46,
+        "tp1": 37.09,
+        "tp2": 37.72,
+        "sl": 35.52
+      },
+      "periods": [
+        "1 Semana",
+        "1-3 Meses"
       ]
     }
   ],
@@ -150,6 +172,12 @@
       ]
     },
     {
+      "ticker": "NVDA",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "CBOE",
       "failed": [
         "Earnings en 1d (blackout)"
@@ -163,12 +191,6 @@
     },
     {
       "ticker": "VIPS",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SCCO",
       "failed": [
         "Radar"
       ]
