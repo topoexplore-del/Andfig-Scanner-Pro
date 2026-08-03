@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-08-03 14:19:06 (Hora Colombia)",
+  "checked_at": "2026-08-03 17:00:30 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 758.27,
-    "spy_sma200": 697.92,
-    "spy_vs_sma200_pct": 8.65,
+    "spy_price": 757.67,
+    "spy_sma200": 697.91,
+    "spy_vs_sma200_pct": 8.56,
     "drawdown_52w_pct": 0.0,
-    "realized_vol_20d": 13.4
+    "realized_vol_20d": 13.3
   },
-  "confirmed": 9,
+  "confirmed": 8,
   "signals": [
     {
       "ticker": "FHI",
@@ -121,28 +121,6 @@
         "sl": 33.61
       },
       "periods": [
-        "1-3 Meses"
-      ]
-    },
-    {
-      "ticker": "EWZ",
-      "composite": 25,
-      "prob": 62,
-      "buffett": 5,
-      "mos": null,
-      "rs_rank": 13,
-      "asof": "2026-07-31",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 36.46,
-        "tp1": 37.09,
-        "tp2": 37.72,
-        "sl": 35.52
-      },
-      "periods": [
-        "1 Semana",
         "1-3 Meses"
       ]
     },
@@ -280,12 +258,6 @@
       ]
     },
     {
-      "ticker": "LMT",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "AMZN",
       "failed": [
         "Analysis"
@@ -301,6 +273,12 @@
       "ticker": "NVDA",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "CBOE",
+      "failed": [
+        "Earnings en 0d (blackout)"
       ]
     }
   ]
