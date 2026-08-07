@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-07 16:30:58 (Hora Colombia)",
+  "checked_at": "2026-08-07 17:33:25 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,160 +10,48 @@
     "drawdown_52w_pct": 0.0,
     "realized_vol_20d": 14.4
   },
-  "confirmed": 7,
+  "confirmed": 2,
   "signals": [
     {
-      "ticker": "VLO",
+      "ticker": "HRMY",
       "composite": 100,
       "prob": 95,
-      "buffett": 65,
-      "mos": -31.3,
-      "rs_rank": 91,
-      "asof": "2026-08-06",
+      "buffett": 100,
+      "mos": -10.0,
+      "rs_rank": 84,
+      "asof": "2026-08-07",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 299.63,
-        "tp1": 310.84,
-        "tp2": 322.05,
-        "sl": 282.81
+        "entry": 37.94,
+        "tp1": 39.49,
+        "tp2": 41.04,
+        "sl": 35.61
       },
       "periods": [
-        "1 Mes",
+        "1 Semana",
         "3 Meses",
         "6 Meses",
         "1 A\u00f1o"
       ]
     },
     {
-      "ticker": "EC",
-      "composite": 91,
-      "prob": 95,
-      "buffett": 60,
-      "mos": 300.0,
-      "rs_rank": 92,
-      "asof": "2026-08-06",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 17.21,
-        "tp1": 17.84,
-        "tp2": 18.47,
-        "sl": 16.27
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "WTS",
-      "composite": 80,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -67.1,
-      "rs_rank": 91,
-      "asof": "2026-08-06",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 373.86,
-        "tp1": 384.72,
-        "tp2": 395.58,
-        "sl": 357.57
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses"
-      ]
-    },
-    {
-      "ticker": "ET",
-      "composite": 71,
-      "prob": 95,
-      "buffett": 10,
-      "mos": -23.4,
-      "rs_rank": 57,
-      "asof": "2026-08-06",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 20.57,
-        "tp1": 20.92,
-        "tp2": 21.27,
-        "sl": 20.05
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses"
-      ]
-    },
-    {
-      "ticker": "DVYE",
-      "composite": 25,
-      "prob": 55,
-      "buffett": 5,
-      "mos": null,
-      "rs_rank": 21,
-      "asof": "2026-08-06",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 34.06,
-        "tp1": 34.4,
-        "tp2": 34.74,
-        "sl": 33.55
-      },
-      "periods": [
-        "1-3 Meses"
-      ]
-    },
-    {
-      "ticker": "SDVY",
+      "ticker": "HDEF",
       "composite": 15,
       "prob": 63,
       "buffett": 5,
       "mos": null,
-      "rs_rank": 53,
-      "asof": "2026-08-06",
+      "rs_rank": 54,
+      "asof": "2026-08-07",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 44.34,
-        "tp1": 44.89,
-        "tp2": 45.44,
-        "sl": 43.52
-      },
-      "periods": [
-        "1-3 Meses"
-      ]
-    },
-    {
-      "ticker": "VIGI",
-      "composite": 15,
-      "prob": 63,
-      "buffett": 0,
-      "mos": null,
-      "rs_rank": 56,
-      "asof": "2026-08-06",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 98.19,
-        "tp1": 99.14,
-        "tp2": 100.09,
-        "sl": 96.77
+        "entry": 34.03,
+        "tp1": 34.33,
+        "tp2": 34.63,
+        "sl": 33.58
       },
       "periods": [
         "1-3 Meses"
@@ -178,13 +66,19 @@
       ]
     },
     {
-      "ticker": "HRMY",
+      "ticker": "VLO",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "VIST",
+      "ticker": "STZ",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "FHI",
       "failed": [
         "Radar"
       ]
@@ -196,13 +90,7 @@
       ]
     },
     {
-      "ticker": "HON",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "FHI",
+      "ticker": "EC",
       "failed": [
         "Radar"
       ]
@@ -214,27 +102,27 @@
       ]
     },
     {
-      "ticker": "NEWT",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "MATX",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "VCTR",
+      "ticker": "AA",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "CBOE",
+      "ticker": "INCY",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "WES",
+      "failed": [
+        "Analysis"
       ]
     },
     {
