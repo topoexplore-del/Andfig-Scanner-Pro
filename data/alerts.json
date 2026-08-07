@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-08-07 13:41:04 (Hora Colombia)",
+  "checked_at": "2026-08-07 16:30:58 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 771.32,
-    "spy_sma200": 700.12,
-    "spy_vs_sma200_pct": 10.17,
-    "drawdown_52w_pct": -0.0,
-    "realized_vol_20d": 14.3
+    "spy_price": 773.26,
+    "spy_sma200": 700.13,
+    "spy_vs_sma200_pct": 10.45,
+    "drawdown_52w_pct": 0.0,
+    "realized_vol_20d": 14.4
   },
-  "confirmed": 8,
+  "confirmed": 7,
   "signals": [
     {
       "ticker": "VLO",
@@ -104,31 +104,6 @@
       "periods": [
         "1 Semana",
         "3 Meses"
-      ]
-    },
-    {
-      "ticker": "SARO",
-      "composite": 66,
-      "prob": 95,
-      "buffett": 10,
-      "mos": -57.8,
-      "rs_rank": 76,
-      "asof": "2026-08-06",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 29.69,
-        "tp1": 30.72,
-        "tp2": 31.75,
-        "sl": 28.15
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
       ]
     },
     {
@@ -281,7 +256,7 @@
       ]
     },
     {
-      "ticker": "CPAY",
+      "ticker": "RELY",
       "failed": [
         "Analysis"
       ]
