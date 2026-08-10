@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-08-10 13:43:28 (Hora Colombia)",
+  "checked_at": "2026-08-10 16:33:47 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 772.56,
-    "spy_sma200": 700.66,
-    "spy_vs_sma200_pct": 10.26,
-    "drawdown_52w_pct": -0.09,
+    "spy_price": 773.03,
+    "spy_sma200": 700.67,
+    "spy_vs_sma200_pct": 10.33,
+    "drawdown_52w_pct": -0.03,
     "realized_vol_20d": 14.0
   },
-  "confirmed": 2,
+  "confirmed": 3,
   "signals": [
     {
       "ticker": "HRMY",
@@ -34,6 +34,27 @@
         "3 Meses",
         "6 Meses",
         "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "FEOE",
+      "composite": 15,
+      "prob": 63,
+      "buffett": 5,
+      "mos": null,
+      "rs_rank": 49,
+      "asof": "2026-08-10",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 56.07,
+        "tp1": 56.8,
+        "tp2": 57.53,
+        "sl": 54.98
+      },
+      "periods": [
+        "1-3 Meses"
       ]
     },
     {
@@ -144,9 +165,9 @@
       ]
     },
     {
-      "ticker": "RELY",
+      "ticker": "NVDA",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     }
   ]
