@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-08-12 13:49:24 (Hora Colombia)",
+  "checked_at": "2026-08-12 16:36:45 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 773.54,
+    "spy_price": 772.49,
     "spy_sma200": 701.74,
-    "spy_vs_sma200_pct": 10.23,
-    "drawdown_52w_pct": 0.0,
+    "spy_vs_sma200_pct": 10.08,
+    "drawdown_52w_pct": -0.1,
     "realized_vol_20d": 14.1
   },
-  "confirmed": 6,
+  "confirmed": 5,
   "signals": [
     {
       "ticker": "EC",
@@ -100,27 +100,6 @@
         "tp1": 43.14,
         "tp2": 43.47,
         "sl": 42.32
-      },
-      "periods": [
-        "1-3 Meses"
-      ]
-    },
-    {
-      "ticker": "EWQ",
-      "composite": 15,
-      "prob": 63,
-      "buffett": 5,
-      "mos": null,
-      "rs_rank": 64,
-      "asof": "2026-08-11",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 47.53,
-        "tp1": 48.05,
-        "tp2": 48.57,
-        "sl": 46.75
       },
       "periods": [
         "1-3 Meses"
