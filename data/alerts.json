@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-14 16:17:53 (Hora Colombia)",
+  "checked_at": "2026-08-14 17:14:57 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -18,40 +18,16 @@
       "prob": 95,
       "buffett": 60,
       "mos": 300.0,
-      "rs_rank": 90,
-      "asof": "2026-08-13",
+      "rs_rank": 89,
+      "asof": "2026-08-14",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 17.02,
-        "tp1": 17.64,
-        "tp2": 18.26,
+        "entry": 16.99,
+        "tp1": 17.59,
+        "tp2": 18.19,
         "sl": 16.09
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "CIEN",
-      "composite": 65,
-      "prob": 95,
-      "buffett": 65,
-      "mos": -91.6,
-      "rs_rank": 2,
-      "asof": "2026-08-13",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 433.23,
-        "tp1": 465.1,
-        "tp2": 496.97,
-        "sl": 385.43
       },
       "periods": [
         "1 Semana",
@@ -62,86 +38,120 @@
       ]
     },
     {
-      "ticker": "DVYE",
+      "ticker": "XOM",
+      "composite": 71,
+      "prob": 95,
+      "buffett": 30,
+      "mos": -34.4,
+      "rs_rank": 49,
+      "asof": "2026-08-14",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 159.01,
+        "tp1": 162.65,
+        "tp2": 166.29,
+        "sl": 153.55
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "CVX",
+      "composite": 71,
+      "prob": 95,
+      "buffett": 65,
+      "mos": -24.7,
+      "rs_rank": 58,
+      "asof": "2026-08-14",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 198.68,
+        "tp1": 203.07,
+        "tp2": 207.46,
+        "sl": 192.09
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "OVV",
+      "composite": 66,
+      "prob": 95,
+      "buffett": 70,
+      "mos": -8.2,
+      "rs_rank": 60,
+      "asof": "2026-08-14",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 62.43,
+        "tp1": 64.39,
+        "tp2": 66.35,
+        "sl": 59.49
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "CIEN",
+      "composite": 65,
+      "prob": 95,
+      "buffett": 65,
+      "mos": -91.3,
+      "rs_rank": 2,
+      "asof": "2026-08-14",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 419.37,
+        "tp1": 450.72,
+        "tp2": 482.07,
+        "sl": 372.35
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "AVDV",
       "composite": 25,
-      "prob": 91,
+      "prob": 78,
       "buffett": 5,
       "mos": null,
-      "rs_rank": 16,
-      "asof": "2026-08-13",
+      "rs_rank": 36,
+      "asof": "2026-08-14",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 33.89,
-        "tp1": 34.21,
-        "tp2": 34.53,
-        "sl": 33.41
+        "entry": 110.46,
+        "tp1": 111.79,
+        "tp2": 113.12,
+        "sl": 108.46
       },
       "periods": [
-        "1-3 Meses"
-      ]
-    },
-    {
-      "ticker": "DON",
-      "composite": 15,
-      "prob": 63,
-      "buffett": 5,
-      "mos": null,
-      "rs_rank": 54,
-      "asof": "2026-08-13",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 58.52,
-        "tp1": 59.11,
-        "tp2": 59.7,
-        "sl": 57.64
-      },
-      "periods": [
-        "1-3 Meses"
-      ]
-    },
-    {
-      "ticker": "AVUS",
-      "composite": 15,
-      "prob": 63,
-      "buffett": 0,
-      "mos": null,
-      "rs_rank": 52,
-      "asof": "2026-08-13",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 131.97,
-        "tp1": 133.24,
-        "tp2": 134.51,
-        "sl": 130.06
-      },
-      "periods": [
-        "1-3 Meses"
-      ]
-    },
-    {
-      "ticker": "DIVI",
-      "composite": 15,
-      "prob": 63,
-      "buffett": 5,
-      "mos": null,
-      "rs_rank": 50,
-      "asof": "2026-08-13",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 44.56,
-        "tp1": 45.03,
-        "tp2": 45.5,
-        "sl": 43.86
-      },
-      "periods": [
+        "1 Semana",
         "1-3 Meses"
       ]
     }
@@ -190,12 +200,6 @@
       ]
     },
     {
-      "ticker": "RIO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "DINO",
       "failed": [
         "Radar"
@@ -233,6 +237,12 @@
     },
     {
       "ticker": "CBOE",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "INCY",
       "failed": [
         "Radar"
       ]
