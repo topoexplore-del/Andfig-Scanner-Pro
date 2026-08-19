@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-08-19 13:19:50 (Hora Colombia)",
+  "checked_at": "2026-08-19 16:18:53 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 769.27,
+    "spy_price": 769.06,
     "spy_sma200": 704.11,
-    "spy_vs_sma200_pct": 9.25,
-    "drawdown_52w_pct": -1.11,
+    "spy_vs_sma200_pct": 9.22,
+    "drawdown_52w_pct": -1.13,
     "realized_vol_20d": 13.6
   },
-  "confirmed": 8,
+  "confirmed": 10,
   "signals": [
     {
       "ticker": "VRTX",
@@ -153,6 +153,28 @@
       ]
     },
     {
+      "ticker": "EZA",
+      "composite": 25,
+      "prob": 78,
+      "buffett": 5,
+      "mos": null,
+      "rs_rank": 34,
+      "asof": "2026-08-19",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 69.84,
+        "tp1": 71.33,
+        "tp2": 72.82,
+        "sl": 67.61
+      },
+      "periods": [
+        "1 Semana",
+        "1-3 Meses"
+      ]
+    },
+    {
       "ticker": "DFSV",
       "composite": 25,
       "prob": 58,
@@ -171,6 +193,27 @@
       },
       "periods": [
         "1 Mes"
+      ]
+    },
+    {
+      "ticker": "RWL",
+      "composite": 15,
+      "prob": 63,
+      "buffett": 0,
+      "mos": null,
+      "rs_rank": 65,
+      "asof": "2026-08-19",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 134.37,
+        "tp1": 135.43,
+        "tp2": 136.49,
+        "sl": 132.78
+      },
+      "periods": [
+        "1-3 Meses"
       ]
     },
     {
