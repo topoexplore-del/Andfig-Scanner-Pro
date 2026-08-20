@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-08-20 13:24:06 (Hora Colombia)",
+  "checked_at": "2026-08-20 16:20:30 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 763.77,
-    "spy_sma200": 704.55,
-    "spy_vs_sma200_pct": 8.4,
-    "drawdown_52w_pct": -1.81,
-    "realized_vol_20d": 13.0
+    "spy_price": 762.6,
+    "spy_sma200": 704.54,
+    "spy_vs_sma200_pct": 8.24,
+    "drawdown_52w_pct": -1.96,
+    "realized_vol_20d": 13.2
   },
   "confirmed": 16,
   "signals": [
@@ -107,37 +107,37 @@
       "prob": 63,
       "buffett": 5,
       "mos": null,
-      "rs_rank": 41,
-      "asof": "2026-08-19",
+      "rs_rank": 52,
+      "asof": "2026-08-20",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 55.9,
-        "tp1": 56.53,
-        "tp2": 57.16,
-        "sl": 54.95
+        "entry": 56.01,
+        "tp1": 56.63,
+        "tp2": 57.25,
+        "sl": 55.08
       },
       "periods": [
         "1-3 Meses"
       ]
     },
     {
-      "ticker": "RWL",
+      "ticker": "FEGE",
       "composite": 15,
       "prob": 63,
-      "buffett": 0,
+      "buffett": 5,
       "mos": null,
-      "rs_rank": 64,
-      "asof": "2026-08-19",
+      "rs_rank": 60,
+      "asof": "2026-08-20",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 134.38,
-        "tp1": 135.43,
-        "tp2": 136.48,
-        "sl": 132.81
+        "entry": 52.54,
+        "tp1": 53.06,
+        "tp2": 53.58,
+        "sl": 51.76
       },
       "periods": [
         "1-3 Meses"
@@ -380,12 +380,6 @@
       ]
     },
     {
-      "ticker": "SMCI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "VIST",
       "failed": [
         "Radar"
@@ -441,6 +435,12 @@
     },
     {
       "ticker": "HL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ACN",
       "failed": [
         "Radar"
       ]
