@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-28 18:48:32 (Hora Colombia)",
+  "checked_at": "2026-08-28 22:36:02 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,27 +10,26 @@
     "drawdown_52w_pct": -1.1,
     "realized_vol_20d": 10.4
   },
-  "confirmed": 7,
+  "confirmed": 5,
   "signals": [
     {
       "ticker": "BVN",
       "composite": 100,
       "prob": 95,
       "buffett": 90,
-      "mos": 9.6,
-      "rs_rank": 52,
-      "asof": "2026-08-27",
+      "mos": 13.1,
+      "rs_rank": 53,
+      "asof": "2026-08-28",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 35.85,
-        "tp1": 37.34,
-        "tp2": 38.83,
-        "sl": 33.62
+        "entry": 34.66,
+        "tp1": 36.2,
+        "tp2": 37.74,
+        "sl": 32.35
       },
       "periods": [
-        "1 Semana",
         "1 Mes",
         "3 Meses",
         "6 Meses",
@@ -38,24 +37,23 @@
       ]
     },
     {
-      "ticker": "HRMY",
-      "composite": 100,
+      "ticker": "SCCO",
+      "composite": 85,
       "prob": 95,
-      "buffett": 100,
-      "mos": -13.0,
-      "rs_rank": 89,
-      "asof": "2026-08-27",
+      "buffett": 85,
+      "mos": -77.6,
+      "rs_rank": 87,
+      "asof": "2026-08-28",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 39.48,
-        "tp1": 40.79,
-        "tp2": 42.1,
-        "sl": 37.51
+        "entry": 207.2,
+        "tp1": 215.87,
+        "tp2": 224.54,
+        "sl": 194.19
       },
       "periods": [
-        "1 Semana",
         "1 Mes",
         "3 Meses",
         "6 Meses",
@@ -63,68 +61,21 @@
       ]
     },
     {
-      "ticker": "FHI",
-      "composite": 94,
+      "ticker": "A",
+      "composite": 69,
       "prob": 95,
-      "buffett": 100,
-      "mos": -29.1,
-      "rs_rank": 81,
-      "asof": "2026-08-27",
+      "buffett": 85,
+      "mos": -66.1,
+      "rs_rank": 91,
+      "asof": "2026-08-28",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 64.41,
-        "tp1": 65.9,
-        "tp2": 67.39,
-        "sl": 62.17
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "SHEL",
-      "composite": 81,
-      "prob": 95,
-      "buffett": 50,
-      "mos": 26.4,
-      "rs_rank": 69,
-      "asof": "2026-08-27",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 90.27,
-        "tp1": 91.69,
-        "tp2": 93.11,
-        "sl": 88.14
-      },
-      "periods": [
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "TOST",
-      "composite": 76,
-      "prob": 95,
-      "buffett": 35,
-      "mos": -78.4,
-      "rs_rank": 95,
-      "asof": "2026-08-27",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 34.8,
-        "tp1": 36.05,
-        "tp2": 37.3,
-        "sl": 32.92
+        "entry": 152.51,
+        "tp1": 156.93,
+        "tp2": 161.35,
+        "sl": 145.88
       },
       "periods": [
         "1 Mes",
@@ -133,21 +84,21 @@
       ]
     },
     {
-      "ticker": "VYMI",
+      "ticker": "HDEF",
       "composite": 25,
       "prob": 66,
       "buffett": 5,
       "mos": null,
-      "rs_rank": 63,
-      "asof": "2026-08-27",
+      "rs_rank": 85,
+      "asof": "2026-08-28",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 104.86,
-        "tp1": 105.61,
-        "tp2": 106.36,
-        "sl": 103.73
+        "entry": 33.84,
+        "tp1": 34.1,
+        "tp2": 34.36,
+        "sl": 33.45
       },
       "periods": [
         "1 Mes"
@@ -159,7 +110,7 @@
       "prob": 61,
       "buffett": 5,
       "mos": null,
-      "rs_rank": 68,
+      "rs_rank": 86,
       "asof": "2026-08-28",
       "live": null,
       "status": null,
@@ -176,6 +127,12 @@
     }
   ],
   "watchlist": [
+    {
+      "ticker": "HRMY",
+      "failed": [
+        "Radar"
+      ]
+    },
     {
       "ticker": "VLO",
       "failed": [
@@ -195,13 +152,13 @@
       ]
     },
     {
-      "ticker": "VIST",
+      "ticker": "SMCI",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "SMCI",
+      "ticker": "FHI",
       "failed": [
         "Radar"
       ]
@@ -231,12 +188,6 @@
       ]
     },
     {
-      "ticker": "MATX",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "AA",
       "failed": [
         "Radar"
@@ -261,9 +212,9 @@
       ]
     },
     {
-      "ticker": "HL",
+      "ticker": "OII",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     }
   ]
