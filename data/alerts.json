@@ -1,13 +1,13 @@
 {
-  "checked_at": "2026-09-01 13:04:46 (Hora Colombia)",
+  "checked_at": "2026-09-01 17:56:56 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 761.71,
+    "spy_price": 761.78,
     "spy_sma200": 708.29,
-    "spy_vs_sma200_pct": 7.54,
-    "drawdown_52w_pct": -2.08,
+    "spy_vs_sma200_pct": 7.55,
+    "drawdown_52w_pct": -2.07,
     "realized_vol_20d": 7.2
   },
   "confirmed": 7,
@@ -83,31 +83,6 @@
       ]
     },
     {
-      "ticker": "ANET",
-      "composite": 80,
-      "prob": 95,
-      "buffett": 70,
-      "mos": -85.3,
-      "rs_rank": 79,
-      "asof": "2026-08-31",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 193.15,
-        "tp1": 201.61,
-        "tp2": 210.07,
-        "sl": 180.46
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
       "ticker": "CVX",
       "composite": 71,
       "prob": 95,
@@ -174,6 +149,27 @@
         "1 Mes",
         "3 Meses",
         "6 Meses"
+      ]
+    },
+    {
+      "ticker": "EWZ",
+      "composite": 25,
+      "prob": 65,
+      "buffett": 5,
+      "mos": null,
+      "rs_rank": 62,
+      "asof": "2026-09-01",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 36.36,
+        "tp1": 37.05,
+        "tp2": 37.74,
+        "sl": 35.33
+      },
+      "periods": [
+        "1 Semana"
       ]
     }
   ],
