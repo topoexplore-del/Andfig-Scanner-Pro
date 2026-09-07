@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-04 18:30:47 (Hora Colombia)",
+  "checked_at": "2026-09-07 13:57:53 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -42,7 +42,7 @@
       "prob": 95,
       "buffett": 85,
       "mos": -82.2,
-      "rs_rank": 75,
+      "rs_rank": 74,
       "asof": "2026-09-04",
       "live": null,
       "status": null,
@@ -208,7 +208,7 @@
       "prob": 58,
       "buffett": 5,
       "mos": null,
-      "rs_rank": 65,
+      "rs_rank": 66,
       "asof": "2026-09-04",
       "live": null,
       "status": null,
