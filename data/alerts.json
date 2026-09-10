@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-10 17:53:43 (Hora Colombia)",
+  "checked_at": "2026-09-10 18:44:16 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,24 +10,24 @@
     "drawdown_52w_pct": -2.58,
     "realized_vol_20d": 8.5
   },
-  "confirmed": 13,
+  "confirmed": 11,
   "signals": [
     {
       "ticker": "CF",
       "composite": 100,
       "prob": 95,
       "buffett": 100,
-      "mos": -22.4,
-      "rs_rank": 92,
-      "asof": "2026-09-09",
+      "mos": -20.6,
+      "rs_rank": 91,
+      "asof": "2026-09-10",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 136.55,
-        "tp1": 141.75,
-        "tp2": 146.95,
-        "sl": 128.75
+        "entry": 133.51,
+        "tp1": 138.85,
+        "tp2": 144.19,
+        "sl": 125.5
       },
       "periods": [
         "1 Mes",
@@ -37,21 +37,21 @@
       ]
     },
     {
-      "ticker": "VIST",
-      "composite": 96,
+      "ticker": "APA",
+      "composite": 94,
       "prob": 95,
-      "buffett": 70,
-      "mos": -4.1,
-      "rs_rank": 59,
-      "asof": "2026-09-09",
+      "buffett": 95,
+      "mos": 3.8,
+      "rs_rank": 86,
+      "asof": "2026-09-10",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 73.67,
-        "tp1": 76.67,
-        "tp2": 79.67,
-        "sl": 69.17
+        "entry": 44.08,
+        "tp1": 45.57,
+        "tp2": 47.06,
+        "sl": 41.84
       },
       "periods": [
         "1 Mes",
@@ -66,63 +66,16 @@
       "prob": 95,
       "buffett": 60,
       "mos": 300.0,
-      "rs_rank": 78,
-      "asof": "2026-09-09",
+      "rs_rank": 77,
+      "asof": "2026-09-10",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 17.66,
-        "tp1": 18.21,
-        "tp2": 18.76,
-        "sl": 16.84
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "PBYI",
-      "composite": 86,
-      "prob": 95,
-      "buffett": 90,
-      "mos": -38.4,
-      "rs_rank": 93,
-      "asof": "2026-09-09",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 8.93,
-        "tp1": 9.34,
-        "tp2": 9.75,
-        "sl": 8.31
-      },
-      "periods": [
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "SCCO",
-      "composite": 85,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -77.6,
-      "rs_rank": 89,
-      "asof": "2026-09-09",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 206.69,
-        "tp1": 215.27,
-        "tp2": 223.85,
-        "sl": 193.82
+        "entry": 17.91,
+        "tp1": 18.45,
+        "tp2": 18.99,
+        "sl": 17.1
       },
       "periods": [
         "1 Semana",
@@ -137,17 +90,17 @@
       "composite": 81,
       "prob": 95,
       "buffett": 50,
-      "mos": 20.2,
+      "mos": 19.7,
       "rs_rank": 79,
-      "asof": "2026-09-09",
+      "asof": "2026-09-10",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 95.15,
-        "tp1": 96.64,
-        "tp2": 98.13,
-        "sl": 92.92
+        "entry": 95.52,
+        "tp1": 97.0,
+        "tp2": 98.48,
+        "sl": 93.3
       },
       "periods": [
         "1 Semana",
@@ -157,47 +110,47 @@
       ]
     },
     {
-      "ticker": "AR",
-      "composite": 81,
-      "prob": 95,
-      "buffett": 60,
-      "mos": 17.6,
-      "rs_rank": 79,
-      "asof": "2026-09-09",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 38.81,
-        "tp1": 39.83,
-        "tp2": 40.85,
-        "sl": 37.28
-      },
-      "periods": [
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
       "ticker": "MATX",
       "composite": 81,
       "prob": 95,
       "buffett": 60,
-      "mos": -22.5,
+      "mos": -22.9,
       "rs_rank": 86,
-      "asof": "2026-09-09",
+      "asof": "2026-09-10",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 225.16,
-        "tp1": 230.83,
-        "tp2": 236.5,
-        "sl": 216.66
+        "entry": 226.31,
+        "tp1": 231.9,
+        "tp2": 237.49,
+        "sl": 217.93
       },
       "periods": [
         "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "ABEV",
+      "composite": 79,
+      "prob": 95,
+      "buffett": 90,
+      "mos": -26.3,
+      "rs_rank": 29,
+      "asof": "2026-09-10",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 3.02,
+        "tp1": 3.09,
+        "tp2": 3.16,
+        "sl": 2.92
+      },
+      "periods": [
         "1 Mes",
         "3 Meses",
         "6 Meses",
@@ -210,16 +163,16 @@
       "prob": 95,
       "buffett": 60,
       "mos": -54.8,
-      "rs_rank": 34,
-      "asof": "2026-09-09",
+      "rs_rank": 71,
+      "asof": "2026-09-10",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 224.91,
-        "tp1": 233.12,
-        "tp2": 241.33,
-        "sl": 212.59
+        "entry": 224.97,
+        "tp1": 233.01,
+        "tp2": 241.05,
+        "sl": 212.91
       },
       "periods": [
         "1 Semana",
@@ -230,25 +183,46 @@
       ]
     },
     {
-      "ticker": "OKE",
-      "composite": 75,
+      "ticker": "XOM",
+      "composite": 71,
       "prob": 95,
-      "buffett": 25,
-      "mos": -28.1,
+      "buffett": 30,
+      "mos": -36.4,
       "rs_rank": 75,
-      "asof": "2026-09-09",
+      "asof": "2026-09-10",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 95.06,
-        "tp1": 97.6,
-        "tp2": 100.14,
-        "sl": 91.25
+        "entry": 164.16,
+        "tp1": 167.74,
+        "tp2": 171.32,
+        "sl": 158.79
       },
       "periods": [
-        "3 Meses",
-        "6 Meses"
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "CVX",
+      "composite": 71,
+      "prob": 95,
+      "buffett": 60,
+      "mos": -29.3,
+      "rs_rank": 80,
+      "asof": "2026-09-10",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 211.49,
+        "tp1": 215.72,
+        "tp2": 219.95,
+        "sl": 205.15
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses"
       ]
     },
     {
@@ -256,17 +230,17 @@
       "composite": 71,
       "prob": 95,
       "buffett": 85,
-      "mos": -29.5,
-      "rs_rank": 86,
-      "asof": "2026-09-09",
+      "mos": -29.8,
+      "rs_rank": 83,
+      "asof": "2026-09-10",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 135.62,
-        "tp1": 138.66,
-        "tp2": 141.7,
-        "sl": 131.06
+        "entry": 136.11,
+        "tp1": 139.22,
+        "tp2": 142.33,
+        "sl": 131.45
       },
       "periods": [
         "1 Mes",
@@ -275,60 +249,30 @@
       ]
     },
     {
-      "ticker": "BP",
-      "composite": 66,
-      "prob": 95,
-      "buffett": 20,
-      "mos": -64.3,
-      "rs_rank": 73,
-      "asof": "2026-09-09",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 45.37,
-        "tp1": 46.4,
-        "tp2": 47.43,
-        "sl": 43.82
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "FNDE",
+      "ticker": "AVDV",
       "composite": 25,
-      "prob": 78,
+      "prob": 67,
       "buffett": 5,
       "mos": null,
-      "rs_rank": 71,
-      "asof": "2026-09-09",
+      "rs_rank": 72,
+      "asof": "2026-09-10",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 42.77,
-        "tp1": 43.12,
-        "tp2": 43.47,
-        "sl": 42.25
+        "entry": 110.46,
+        "tp1": 111.62,
+        "tp2": 112.78,
+        "sl": 108.72
       },
       "periods": [
-        "1-3 Meses"
+        "1 Mes"
       ]
     }
   ],
   "watchlist": [
     {
       "ticker": "PBR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "BVN",
       "failed": [
         "Radar"
       ]
@@ -346,19 +290,19 @@
       ]
     },
     {
+      "ticker": "PARR",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "PBR",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "SMCI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "APA",
+      "ticker": "VIST",
       "failed": [
         "Radar"
       ]
@@ -382,13 +326,13 @@
       ]
     },
     {
-      "ticker": "SQM",
+      "ticker": "INCY",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "INCY",
+      "ticker": "NBIX",
       "failed": [
         "Radar"
       ]
@@ -401,6 +345,12 @@
     },
     {
       "ticker": "HL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MU",
       "failed": [
         "Radar"
       ]
