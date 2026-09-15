@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-14 18:36:36 (Hora Colombia)",
+  "checked_at": "2026-09-14 19:18:21 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,47 +10,23 @@
     "drawdown_52w_pct": -2.19,
     "realized_vol_20d": 8.8
   },
-  "confirmed": 8,
+  "confirmed": 3,
   "signals": [
-    {
-      "ticker": "APA",
-      "composite": 94,
-      "prob": 95,
-      "buffett": 95,
-      "mos": 3.3,
-      "rs_rank": 91,
-      "asof": "2026-09-11",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 44.3,
-        "tp1": 45.74,
-        "tp2": 47.18,
-        "sl": 42.14
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
     {
       "ticker": "EC",
       "composite": 91,
       "prob": 95,
       "buffett": 60,
       "mos": 300.0,
-      "rs_rank": 76,
-      "asof": "2026-09-11",
+      "rs_rank": 11,
+      "asof": "2026-09-14",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 17.59,
-        "tp1": 18.13,
-        "tp2": 18.67,
+        "entry": 17.58,
+        "tp1": 18.11,
+        "tp2": 18.64,
         "sl": 16.78
       },
       "periods": [
@@ -61,21 +37,21 @@
       ]
     },
     {
-      "ticker": "MATX",
+      "ticker": "SHEL",
       "composite": 81,
       "prob": 95,
-      "buffett": 60,
-      "mos": -23.6,
-      "rs_rank": 85,
-      "asof": "2026-09-11",
+      "buffett": 50,
+      "mos": 19.1,
+      "rs_rank": 12,
+      "asof": "2026-09-14",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 228.53,
-        "tp1": 234.04,
-        "tp2": 239.55,
-        "sl": 220.26
+        "entry": 96.01,
+        "tp1": 97.47,
+        "tp2": 98.93,
+        "sl": 93.82
       },
       "periods": [
         "1 Semana",
@@ -85,118 +61,26 @@
       ]
     },
     {
-      "ticker": "ABEV",
-      "composite": 79,
+      "ticker": "BP",
+      "composite": 66,
       "prob": 95,
-      "buffett": 90,
-      "mos": -25.7,
-      "rs_rank": 22,
-      "asof": "2026-09-11",
+      "buffett": 20,
+      "mos": -64.5,
+      "rs_rank": 11,
+      "asof": "2026-09-14",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 3.0,
-        "tp1": 3.07,
-        "tp2": 3.14,
-        "sl": 2.9
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "CNXN",
-      "composite": 71,
-      "prob": 95,
-      "buffett": 25,
-      "mos": -33.9,
-      "rs_rank": 87,
-      "asof": "2026-09-11",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 85.05,
-        "tp1": 87.41,
-        "tp2": 89.77,
-        "sl": 81.51
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "XOM",
-      "composite": 71,
-      "prob": 95,
-      "buffett": 30,
-      "mos": -36.7,
-      "rs_rank": 82,
-      "asof": "2026-09-11",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 164.93,
-        "tp1": 168.47,
-        "tp2": 172.01,
-        "sl": 159.62
+        "entry": 45.63,
+        "tp1": 46.63,
+        "tp2": 47.63,
+        "sl": 44.13
       },
       "periods": [
         "1 Semana",
         "1 Mes",
         "3 Meses"
-      ]
-    },
-    {
-      "ticker": "COP",
-      "composite": 71,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -30.0,
-      "rs_rank": 89,
-      "asof": "2026-09-11",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 136.44,
-        "tp1": 139.49,
-        "tp2": 142.54,
-        "sl": 131.87
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "FNDE",
-      "composite": 25,
-      "prob": 78,
-      "buffett": 5,
-      "mos": null,
-      "rs_rank": 66,
-      "asof": "2026-09-11",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 42.55,
-        "tp1": 42.9,
-        "tp2": 43.25,
-        "sl": 42.02
-      },
-      "periods": [
-        "1-3 Meses"
       ]
     }
   ],
@@ -208,31 +92,7 @@
       ]
     },
     {
-      "ticker": "BVN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "HRMY",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "EOG",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "PBR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "CF",
       "failed": [
         "Radar"
       ]
@@ -244,51 +104,51 @@
       ]
     },
     {
-      "ticker": "SMCI",
+      "ticker": "ABEV",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "RIO",
+      "ticker": "ITUB",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "FCX",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "DINO",
+      "ticker": "QCOM",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "QCOM",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "FCX",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "SM",
+      "ticker": "DDTA",
       "failed": [
-        "Radar"
+        "Game Theory"
       ]
     },
     {
-      "ticker": "NXPI",
+      "ticker": "BSCR",
       "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "NXPI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "NBIX",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "VLO",
-      "failed": [
-        "Radar"
+        "Game Theory"
       ]
     }
   ]
