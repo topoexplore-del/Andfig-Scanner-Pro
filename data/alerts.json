@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-16 18:23:50 (Hora Colombia)",
+  "checked_at": "2026-09-16 19:09:23 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,27 +10,26 @@
     "drawdown_52w_pct": -3.06,
     "realized_vol_20d": 8.7
   },
-  "confirmed": 7,
+  "confirmed": 5,
   "signals": [
     {
-      "ticker": "EOG",
+      "ticker": "PBR",
       "composite": 100,
       "prob": 95,
-      "buffett": 100,
-      "mos": -13.9,
-      "rs_rank": 87,
-      "asof": "2026-09-15",
+      "buffett": 95,
+      "mos": 72.0,
+      "rs_rank": 74,
+      "asof": "2026-09-16",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 152.62,
-        "tp1": 156.34,
-        "tp2": 160.06,
-        "sl": 147.04
+        "entry": 20.72,
+        "tp1": 21.35,
+        "tp2": 21.98,
+        "sl": 19.77
       },
       "periods": [
-        "1 Semana",
         "1 Mes",
         "3 Meses",
         "6 Meses",
@@ -38,24 +37,23 @@
       ]
     },
     {
-      "ticker": "VIST",
-      "composite": 96,
+      "ticker": "PBR",
+      "composite": 100,
       "prob": 95,
-      "buffett": 70,
-      "mos": -8.7,
-      "rs_rank": 83,
-      "asof": "2026-09-15",
+      "buffett": 95,
+      "mos": 72.0,
+      "rs_rank": 74,
+      "asof": "2026-09-16",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 77.42,
-        "tp1": 80.56,
-        "tp2": 83.7,
-        "sl": 72.71
+        "entry": 20.72,
+        "tp1": 21.35,
+        "tp2": 21.98,
+        "sl": 19.77
       },
       "periods": [
-        "1 Semana",
         "1 Mes",
         "3 Meses",
         "6 Meses",
@@ -67,47 +65,22 @@
       "composite": 81,
       "prob": 95,
       "buffett": 60,
-      "mos": 19.4,
-      "rs_rank": 88,
-      "asof": "2026-09-15",
+      "mos": 26.5,
+      "rs_rank": 70,
+      "asof": "2026-09-16",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 50.94,
-        "tp1": 52.25,
-        "tp2": 53.56,
-        "sl": 48.97
+        "entry": 48.0,
+        "tp1": 49.45,
+        "tp2": 50.9,
+        "sl": 45.83
       },
       "periods": [
-        "1 Semana",
-        "1 Mes",
         "3 Meses",
         "6 Meses",
         "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "XOM",
-      "composite": 71,
-      "prob": 95,
-      "buffett": 30,
-      "mos": -37.9,
-      "rs_rank": 90,
-      "asof": "2026-09-15",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 168.2,
-        "tp1": 171.94,
-        "tp2": 175.68,
-        "sl": 162.59
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses"
       ]
     },
     {
@@ -115,64 +88,39 @@
       "composite": 71,
       "prob": 95,
       "buffett": 85,
-      "mos": -31.9,
-      "rs_rank": 93,
-      "asof": "2026-09-15",
+      "mos": -27.4,
+      "rs_rank": 73,
+      "asof": "2026-09-16",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 140.24,
-        "tp1": 143.5,
-        "tp2": 146.76,
-        "sl": 135.35
+        "entry": 131.44,
+        "tp1": 135.1,
+        "tp2": 138.76,
+        "sl": 125.95
       },
       "periods": [
-        "1 Semana",
-        "1 Mes",
         "3 Meses",
         "6 Meses"
       ]
     },
     {
-      "ticker": "BP",
-      "composite": 66,
+      "ticker": "A",
+      "composite": 69,
       "prob": 95,
-      "buffett": 20,
-      "mos": -65.3,
-      "rs_rank": 83,
-      "asof": "2026-09-15",
+      "buffett": 85,
+      "mos": -64.1,
+      "rs_rank": 73,
+      "asof": "2026-09-16",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 46.66,
-        "tp1": 47.67,
-        "tp2": 48.68,
-        "sl": 45.14
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses"
-      ]
-    },
-    {
-      "ticker": "DGX",
-      "composite": 60,
-      "prob": 95,
-      "buffett": 20,
-      "mos": -51.3,
-      "rs_rank": 91,
-      "asof": "2026-09-15",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 245.38,
-        "tp1": 251.05,
-        "tp2": 256.72,
-        "sl": 236.88
+        "entry": 152.38,
+        "tp1": 156.73,
+        "tp2": 161.08,
+        "sl": 145.85
       },
       "periods": [
         "1 Semana",
@@ -182,12 +130,6 @@
     }
   ],
   "watchlist": [
-    {
-      "ticker": "PBR",
-      "failed": [
-        "Radar"
-      ]
-    },
     {
       "ticker": "CRUS",
       "failed": [
@@ -201,43 +143,13 @@
       ]
     },
     {
-      "ticker": "PARR",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "PBR",
+      "ticker": "VIST",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "CF",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "APA",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "EC",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "DINO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SM",
+      "ticker": "INCY",
       "failed": [
         "Radar"
       ]
@@ -249,7 +161,25 @@
       ]
     },
     {
+      "ticker": "ABEV",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "UMC",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "PBYI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SEZL",
       "failed": [
         "Radar"
       ]
@@ -261,13 +191,31 @@
       ]
     },
     {
-      "ticker": "AR",
+      "ticker": "SHEL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "FCFS",
       "failed": [
         "Radar"
       ]
     },
     {
       "ticker": "ANET",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "PLTR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "PGNY",
       "failed": [
         "Radar"
       ]
