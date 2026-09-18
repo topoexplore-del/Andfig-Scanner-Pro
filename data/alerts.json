@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-09-18 15:15:18 (Hora Colombia)",
+  "checked_at": "2026-09-18 17:57:21 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 761.54,
+    "spy_price": 761.69,
     "spy_sma200": 714.24,
-    "spy_vs_sma200_pct": 6.62,
-    "drawdown_52w_pct": -2.1,
+    "spy_vs_sma200_pct": 6.64,
+    "drawdown_52w_pct": -2.08,
     "realized_vol_20d": 9.2
   },
-  "confirmed": 6,
+  "confirmed": 7,
   "signals": [
     {
       "ticker": "CF",
@@ -80,6 +80,29 @@
         "3 Meses",
         "6 Meses",
         "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "ANET",
+      "composite": 80,
+      "prob": 95,
+      "buffett": 70,
+      "mos": -85.5,
+      "rs_rank": 87,
+      "asof": "2026-09-18",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 196.91,
+        "tp1": 205.19,
+        "tp2": 213.47,
+        "sl": 184.49
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
       ]
     },
     {
