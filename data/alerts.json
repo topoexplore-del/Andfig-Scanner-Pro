@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-09-21 14:52:15 (Hora Colombia)",
+  "checked_at": "2026-09-21 18:46:19 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 774.34,
-    "spy_sma200": 712.99,
-    "spy_vs_sma200_pct": 8.61,
-    "drawdown_52w_pct": -0.21,
-    "realized_vol_20d": 10.8
+    "spy_price": 773.5,
+    "spy_sma200": 712.98,
+    "spy_vs_sma200_pct": 8.49,
+    "drawdown_52w_pct": -0.32,
+    "realized_vol_20d": 10.6
   },
   "confirmed": 7,
   "signals": [
@@ -86,29 +86,6 @@
       ]
     },
     {
-      "ticker": "ANET",
-      "composite": 80,
-      "prob": 95,
-      "buffett": 70,
-      "mos": -85.5,
-      "rs_rank": 87,
-      "asof": "2026-09-18",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 196.91,
-        "tp1": 205.19,
-        "tp2": 213.47,
-        "sl": 184.49
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
       "ticker": "CNXN",
       "composite": 71,
       "prob": 95,
@@ -174,6 +151,27 @@
       "periods": [
         "1 Semana",
         "3 Meses"
+      ]
+    },
+    {
+      "ticker": "EWZ",
+      "composite": 25,
+      "prob": 72,
+      "buffett": 5,
+      "mos": null,
+      "rs_rank": 79,
+      "asof": "2026-09-21",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 37.83,
+        "tp1": 38.62,
+        "tp2": 39.41,
+        "sl": 36.64
+      },
+      "periods": [
+        "1-3 Meses"
       ]
     }
   ],
