@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-28 19:45:22 (Hora Colombia)",
+  "checked_at": "2026-09-28 20:29:50 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,35 +10,36 @@
     "drawdown_52w_pct": -0.59,
     "realized_vol_20d": 10.8
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 1,
+  "signals": [
+    {
+      "ticker": "SHEL",
+      "composite": 81,
+      "prob": 95,
+      "buffett": 50,
+      "mos": 19.1,
+      "rs_rank": 0,
+      "asof": "2026-09-28",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 95.99,
+        "tp1": 97.58,
+        "tp2": 99.17,
+        "sl": 93.6
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    }
+  ],
   "watchlist": [
     {
-      "ticker": "SMCI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "MPWR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "DDTA",
-      "failed": [
-        "Game Theory"
-      ]
-    },
-    {
-      "ticker": "DDFA",
       "failed": [
         "Game Theory"
       ]
