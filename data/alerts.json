@@ -1,13 +1,13 @@
 {
-  "checked_at": "2026-09-29 19:03:12 (Hora Colombia)",
+  "checked_at": "2026-09-29 19:59:44 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 764.2,
-    "spy_sma200": 715.71,
-    "spy_vs_sma200_pct": 6.78,
-    "drawdown_52w_pct": -1.51,
+    "spy_price": 765.61,
+    "spy_sma200": 715.29,
+    "spy_vs_sma200_pct": 7.04,
+    "drawdown_52w_pct": -1.33,
     "realized_vol_20d": 11.1
   },
   "confirmed": 1,
@@ -17,21 +17,19 @@
       "composite": 81,
       "prob": 95,
       "buffett": 50,
-      "mos": 19.1,
+      "mos": 20.8,
       "rs_rank": 0,
-      "asof": "2026-09-28",
+      "asof": "2026-09-29",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 95.99,
-        "tp1": 97.58,
-        "tp2": 99.17,
-        "sl": 93.6
+        "entry": 94.66,
+        "tp1": 96.26,
+        "tp2": 97.86,
+        "sl": 92.26
       },
       "periods": [
-        "1 Semana",
-        "1 Mes",
         "3 Meses",
         "6 Meses"
       ]
@@ -39,33 +37,9 @@
   ],
   "watchlist": [
     {
-      "ticker": "SMCI",
+      "ticker": "SBFG",
       "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "MPWR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "POWL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "DDTA",
-      "failed": [
-        "Game Theory"
+        "Analysis"
       ]
     }
   ]
