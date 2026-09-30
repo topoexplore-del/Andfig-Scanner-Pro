@@ -1,40 +1,17 @@
 {
-  "checked_at": "2026-09-29 14:45:38 (Hora Colombia)",
+  "checked_at": "2026-09-29 19:03:12 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 764.33,
+    "spy_price": 764.2,
     "spy_sma200": 715.71,
-    "spy_vs_sma200_pct": 6.79,
-    "drawdown_52w_pct": -1.5,
+    "spy_vs_sma200_pct": 6.78,
+    "drawdown_52w_pct": -1.51,
     "realized_vol_20d": 11.1
   },
-  "confirmed": 2,
+  "confirmed": 1,
   "signals": [
-    {
-      "ticker": "NVDA",
-      "composite": 85,
-      "prob": 95,
-      "buffett": 85,
-      "mos": -82.0,
-      "rs_rank": 92,
-      "asof": "2026-09-28",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 227.05,
-        "tp1": 233.07,
-        "tp2": 239.09,
-        "sl": 218.02
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
     {
       "ticker": "SHEL",
       "composite": 81,
@@ -74,7 +51,7 @@
       ]
     },
     {
-      "ticker": "ALAB",
+      "ticker": "POWL",
       "failed": [
         "Radar"
       ]
@@ -87,12 +64,6 @@
     },
     {
       "ticker": "DDTA",
-      "failed": [
-        "Game Theory"
-      ]
-    },
-    {
-      "ticker": "EWT",
       "failed": [
         "Game Theory"
       ]
