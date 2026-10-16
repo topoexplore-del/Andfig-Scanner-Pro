@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-15 18:26:50 (Hora Colombia)",
+  "checked_at": "2026-10-15 19:10:46 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,43 +10,184 @@
     "drawdown_52w_pct": -0.94,
     "realized_vol_20d": 9.6
   },
-  "confirmed": 0,
-  "signals": [],
-  "watchlist": [
+  "confirmed": 4,
+  "signals": [
     {
-      "ticker": "BSVN",
-      "failed": [
-        "Analysis"
+      "ticker": "KOF",
+      "composite": 65,
+      "prob": 95,
+      "buffett": 65,
+      "mos": -77.6,
+      "rs_rank": 72,
+      "asof": "2026-10-15",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 114.83,
+        "tp1": 117.63,
+        "tp2": 120.43,
+        "sl": 110.63
+      },
+      "periods": [
+        "1 Semana"
       ]
     },
     {
-      "ticker": "EWZ",
+      "ticker": "ADI",
+      "composite": 61,
+      "prob": 95,
+      "buffett": 60,
+      "mos": -72.0,
+      "rs_rank": 69,
+      "asof": "2026-10-15",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 400.43,
+        "tp1": 412.15,
+        "tp2": 423.87,
+        "sl": 382.85
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "ADI",
+      "composite": 61,
+      "prob": 95,
+      "buffett": 60,
+      "mos": -72.0,
+      "rs_rank": 69,
+      "asof": "2026-10-15",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 400.43,
+        "tp1": 412.15,
+        "tp2": 423.87,
+        "sl": 382.85
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "LVHI",
+      "composite": 25,
+      "prob": 61,
+      "buffett": 5,
+      "mos": null,
+      "rs_rank": 61,
+      "asof": "2026-10-15",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 42.53,
+        "tp1": 42.82,
+        "tp2": 43.11,
+        "sl": 42.09
+      },
+      "periods": [
+        "1 Semana"
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "PBR",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "RWL",
+      "ticker": "PBR",
       "failed": [
-        "Game Theory"
+        "Radar"
       ]
     },
     {
-      "ticker": "QYLD",
+      "ticker": "EC",
       "failed": [
-        "Game Theory"
+        "Radar"
       ]
     },
     {
-      "ticker": "XLP",
+      "ticker": "ACN",
       "failed": [
-        "Game Theory"
+        "Radar"
       ]
     },
     {
-      "ticker": "JMST",
+      "ticker": "CBOE",
       "failed": [
-        "Game Theory"
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "VCTR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SEZL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "FMX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "UNH",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "CIB",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "WIT",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "QLYS",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "BAP",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "BAP",
+      "failed": [
+        "Analysis"
       ]
     }
   ]
