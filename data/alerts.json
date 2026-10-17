@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-16 18:09:23 (Hora Colombia)",
+  "checked_at": "2026-10-16 19:10:34 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,71 +10,30 @@
     "drawdown_52w_pct": -2.03,
     "realized_vol_20d": 10.5
   },
-  "confirmed": 5,
+  "confirmed": 4,
   "signals": [
     {
-      "ticker": "KOF",
-      "composite": 65,
+      "ticker": "ABEV",
+      "composite": 79,
       "prob": 95,
-      "buffett": 65,
-      "mos": -77.6,
-      "rs_rank": 72,
-      "asof": "2026-10-15",
+      "buffett": 90,
+      "mos": -33.5,
+      "rs_rank": 56,
+      "asof": "2026-10-16",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 114.83,
-        "tp1": 117.63,
-        "tp2": 120.43,
-        "sl": 110.63
+        "entry": 3.27,
+        "tp1": 3.35,
+        "tp2": 3.43,
+        "sl": 3.15
       },
       "periods": [
-        "1 Semana"
-      ]
-    },
-    {
-      "ticker": "ADI",
-      "composite": 61,
-      "prob": 95,
-      "buffett": 60,
-      "mos": -72.0,
-      "rs_rank": 69,
-      "asof": "2026-10-15",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 400.43,
-        "tp1": 412.15,
-        "tp2": 423.87,
-        "sl": 382.85
-      },
-      "periods": [
+        "1 Semana",
         "1 Mes",
-        "3 Meses"
-      ]
-    },
-    {
-      "ticker": "ADI",
-      "composite": 61,
-      "prob": 95,
-      "buffett": 60,
-      "mos": -72.0,
-      "rs_rank": 69,
-      "asof": "2026-10-15",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 400.43,
-        "tp1": 412.15,
-        "tp2": 423.87,
-        "sl": 382.85
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses"
+        "3 Meses",
+        "6 Meses"
       ]
     },
     {
@@ -83,16 +42,16 @@
       "prob": 61,
       "buffett": 5,
       "mos": null,
-      "rs_rank": 61,
-      "asof": "2026-10-15",
+      "rs_rank": 51,
+      "asof": "2026-10-16",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 42.53,
-        "tp1": 42.82,
-        "tp2": 43.11,
-        "sl": 42.09
+        "entry": 42.76,
+        "tp1": 43.06,
+        "tp2": 43.36,
+        "sl": 42.31
       },
       "periods": [
         "1 Semana"
@@ -104,7 +63,29 @@
       "prob": 63,
       "buffett": 5,
       "mos": null,
-      "rs_rank": 94,
+      "rs_rank": 61,
+      "asof": "2026-10-16",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 67.85,
+        "tp1": 69.16,
+        "tp2": 70.47,
+        "sl": 65.88
+      },
+      "periods": [
+        "1 Semana",
+        "1-3 Meses"
+      ]
+    },
+    {
+      "ticker": "XLE",
+      "composite": 15,
+      "prob": 63,
+      "buffett": 5,
+      "mos": null,
+      "rs_rank": 61,
       "asof": "2026-10-16",
       "live": null,
       "status": null,
@@ -135,13 +116,19 @@
       ]
     },
     {
-      "ticker": "EC",
+      "ticker": "VIST",
       "failed": [
-        "Radar"
+        "Entry Zones"
       ]
     },
     {
-      "ticker": "ACN",
+      "ticker": "CINF",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "EC",
       "failed": [
         "Radar"
       ]
@@ -165,13 +152,25 @@
       ]
     },
     {
+      "ticker": "AFL",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "FMX",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "UNH",
+      "ticker": "SHEL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "AMGN",
       "failed": [
         "Analysis"
       ]
@@ -183,33 +182,15 @@
       ]
     },
     {
-      "ticker": "CIB",
+      "ticker": "AIZ",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "WIT",
+      "ticker": "ERIE",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "QLYS",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "BAP",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "BAP",
-      "failed": [
-        "Analysis"
       ]
     }
   ]
