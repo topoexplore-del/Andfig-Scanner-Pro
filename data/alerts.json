@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20 18:35:31 (Hora Colombia)",
+  "checked_at": "2026-10-20 19:30:15 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,78 +10,7 @@
     "drawdown_52w_pct": -1.29,
     "realized_vol_20d": 9.0
   },
-  "confirmed": 3,
-  "signals": [
-    {
-      "ticker": "EWZ",
-      "composite": 25,
-      "prob": 95,
-      "buffett": 5,
-      "mos": null,
-      "rs_rank": 95,
-      "asof": "2026-10-20",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 42.63,
-        "tp1": 43.65,
-        "tp2": 44.67,
-        "sl": 41.1
-      },
-      "periods": [
-        "1-3 Meses"
-      ]
-    },
-    {
-      "ticker": "EWW",
-      "composite": 25,
-      "prob": 61,
-      "buffett": 5,
-      "mos": null,
-      "rs_rank": 52,
-      "asof": "2026-10-20",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 75.12,
-        "tp1": 76.39,
-        "tp2": 77.66,
-        "sl": 73.22
-      },
-      "periods": [
-        "1 Semana"
-      ]
-    },
-    {
-      "ticker": "XLE",
-      "composite": 15,
-      "prob": 63,
-      "buffett": 5,
-      "mos": null,
-      "rs_rank": 94,
-      "asof": "2026-10-20",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 67.58,
-        "tp1": 68.88,
-        "tp2": 70.18,
-        "sl": 65.63
-      },
-      "periods": [
-        "1-3 Meses"
-      ]
-    }
-  ],
-  "watchlist": [
-    {
-      "ticker": "DDTA",
-      "failed": [
-        "Game Theory"
-      ]
-    }
-  ]
+  "confirmed": 0,
+  "signals": [],
+  "watchlist": []
 }
