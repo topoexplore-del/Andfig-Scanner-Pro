@@ -1,80 +1,53 @@
 {
-  "checked_at": "2026-10-21 14:04:45 (Hora Colombia)",
+  "checked_at": "2026-10-21 18:50:24 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 771.75,
-    "spy_sma200": 723.23,
-    "spy_vs_sma200_pct": 6.71,
-    "drawdown_52w_pct": -0.94,
-    "realized_vol_20d": 8.7
+    "spy_price": 773.09,
+    "spy_sma200": 723.24,
+    "spy_vs_sma200_pct": 6.89,
+    "drawdown_52w_pct": -0.77,
+    "realized_vol_20d": 8.8
   },
-  "confirmed": 3,
-  "signals": [
+  "confirmed": 0,
+  "signals": [],
+  "watchlist": [
+    {
+      "ticker": "RELY",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "PLTR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "AHR",
+      "failed": [
+        "Analysis"
+      ]
+    },
     {
       "ticker": "EWZ",
-      "composite": 25,
-      "prob": 95,
-      "buffett": 5,
-      "mos": null,
-      "rs_rank": 95,
-      "asof": "2026-10-20",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 42.63,
-        "tp1": 43.65,
-        "tp2": 44.67,
-        "sl": 41.1
-      },
-      "periods": [
-        "1-3 Meses"
+      "failed": [
+        "Radar"
       ]
     },
     {
       "ticker": "EWW",
-      "composite": 25,
-      "prob": 61,
-      "buffett": 5,
-      "mos": null,
-      "rs_rank": 52,
-      "asof": "2026-10-20",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 75.12,
-        "tp1": 76.4,
-        "tp2": 77.68,
-        "sl": 73.2
-      },
-      "periods": [
-        "1 Semana"
+      "failed": [
+        "Radar"
       ]
     },
     {
-      "ticker": "XLE",
-      "composite": 15,
-      "prob": 63,
-      "buffett": 5,
-      "mos": null,
-      "rs_rank": 94,
-      "asof": "2026-10-20",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 67.58,
-        "tp1": 68.88,
-        "tp2": 70.18,
-        "sl": 65.63
-      },
-      "periods": [
-        "1-3 Meses"
+      "ticker": "XLP",
+      "failed": [
+        "Game Theory"
       ]
     }
-  ],
-  "watchlist": []
+  ]
 }
