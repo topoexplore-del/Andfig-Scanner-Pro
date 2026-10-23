@@ -1,33 +1,54 @@
 {
-  "checked_at": "2026-10-23 13:50:13 (Hora Colombia)",
+  "checked_at": "2026-10-23 18:40:55 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 760.4,
+    "spy_price": 759.97,
     "spy_sma200": 724.0,
-    "spy_vs_sma200_pct": 5.03,
-    "drawdown_52w_pct": -2.4,
-    "realized_vol_20d": 9.7
+    "spy_vs_sma200_pct": 4.97,
+    "drawdown_52w_pct": -2.45,
+    "realized_vol_20d": 9.8
   },
-  "confirmed": 1,
+  "confirmed": 2,
   "signals": [
+    {
+      "ticker": "EWZ",
+      "composite": 25,
+      "prob": 95,
+      "buffett": 5,
+      "mos": null,
+      "rs_rank": 93,
+      "asof": "2026-10-23",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 42.29,
+        "tp1": 43.29,
+        "tp2": 44.29,
+        "sl": 40.79
+      },
+      "periods": [
+        "1-3 Meses"
+      ]
+    },
     {
       "ticker": "XLE",
       "composite": 15,
       "prob": 63,
       "buffett": 5,
       "mos": null,
-      "rs_rank": 93,
-      "asof": "2026-10-22",
+      "rs_rank": 95,
+      "asof": "2026-10-23",
       "live": null,
       "status": null,
       "max_chase": null,
       "zones": {
-        "entry": 67.16,
-        "tp1": 68.54,
-        "tp2": 69.92,
-        "sl": 65.09
+        "entry": 68.9,
+        "tp1": 70.33,
+        "tp2": 71.76,
+        "sl": 66.76
       },
       "periods": [
         "1-3 Meses"
@@ -48,9 +69,9 @@
       ]
     },
     {
-      "ticker": "EWZ",
+      "ticker": "SNFCA",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
@@ -60,7 +81,7 @@
       ]
     },
     {
-      "ticker": "FEGE",
+      "ticker": "XLP",
       "failed": [
         "Game Theory"
       ]
