@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-29 19:32:52 (Hora Colombia)",
+  "checked_at": "2026-10-29 20:39:17 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -10,13 +10,83 @@
     "drawdown_52w_pct": -0.87,
     "realized_vol_20d": 10.0
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 1,
+  "signals": [
+    {
+      "ticker": "MNST",
+      "composite": 74,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -76.7,
+      "rs_rank": 0,
+      "asof": "2026-10-29",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 46.05,
+        "tp1": 47.06,
+        "tp2": 48.07,
+        "sl": 44.53
+      },
+      "periods": [
+        "1 Mes"
+      ]
+    }
+  ],
   "watchlist": [
     {
-      "ticker": "SHEL",
+      "ticker": "CF",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "STLD",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NUE",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "LAMR",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "EVRG",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "SLG",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "D",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "PNW",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "KDP",
+      "failed": [
+        "Analysis"
       ]
     }
   ]
