@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-10-30 14:49:57 (Hora Colombia)",
+  "checked_at": "2026-10-30 19:16:19 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
     "advice": "Mercado alcista \u2014 se\u00f1ales LONG operan con criterios normales.",
-    "spy_price": 753.57,
-    "spy_sma200": 725.97,
-    "spy_vs_sma200_pct": 3.8,
-    "drawdown_52w_pct": -3.28,
-    "realized_vol_20d": 12.2
+    "spy_price": 769.36,
+    "spy_sma200": 725.63,
+    "spy_vs_sma200_pct": 6.03,
+    "drawdown_52w_pct": -1.25,
+    "realized_vol_20d": 10.1
   },
   "confirmed": 1,
   "signals": [
@@ -48,25 +48,7 @@
       ]
     },
     {
-      "ticker": "SHC",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "NUE",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "PLTR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SARO",
       "failed": [
         "Radar"
       ]
@@ -79,18 +61,6 @@
     },
     {
       "ticker": "EVRG",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "AHR",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "ALRS",
       "failed": [
         "Analysis"
       ]
@@ -117,12 +87,6 @@
       "ticker": "KDP",
       "failed": [
         "Analysis"
-      ]
-    },
-    {
-      "ticker": "XLB",
-      "failed": [
-        "Game Theory"
       ]
     }
   ]
