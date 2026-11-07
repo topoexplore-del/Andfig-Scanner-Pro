@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-06 19:32:21 (Hora Colombia)",
+  "checked_at": "2026-11-06 20:31:35 (Hora Colombia)",
   "regime": {
     "regime": "BULL",
     "icon": "\ud83d\udfe2",
@@ -20,45 +20,9 @@
       ]
     },
     {
-      "ticker": "SNFCA",
+      "ticker": "DE",
       "failed": [
         "Analysis"
-      ]
-    },
-    {
-      "ticker": "FXI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "MCHI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "FEGE",
-      "failed": [
-        "Game Theory"
-      ]
-    },
-    {
-      "ticker": "XLP",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "XLB",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "XLRE",
-      "failed": [
-        "Game Theory"
       ]
     }
   ]
