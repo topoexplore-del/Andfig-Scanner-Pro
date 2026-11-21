@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-20 17:05:17 (Hora Colombia)",
+  "checked_at": "2026-11-20 22:00:45 (Hora Colombia)",
   "regime": {
     "regime": "NEUTRAL",
     "icon": "\ud83d\udfe1",
@@ -10,37 +10,13 @@
     "drawdown_52w_pct": -11.46,
     "realized_vol_20d": 26.3
   },
-  "confirmed": 1,
-  "signals": [
-    {
-      "ticker": "CHE",
-      "composite": 79,
-      "prob": 95,
-      "buffett": 55,
-      "mos": -67.9,
-      "rs_rank": 80,
-      "asof": "2026-11-19",
-      "live": null,
-      "status": null,
-      "max_chase": null,
-      "zones": {
-        "entry": 547.18,
-        "tp1": 561.0,
-        "tp2": 574.82,
-        "sl": 526.45
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    }
-  ],
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
-      "ticker": "QNST",
+      "ticker": "STZ",
       "failed": [
-        "Analysis"
+        "RS (r\u00e9gimen neutral)"
       ]
     },
     {
@@ -50,9 +26,21 @@
       ]
     },
     {
-      "ticker": "POWL",
+      "ticker": "PGNY",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "BOOT",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ALL",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -68,39 +56,51 @@
       ]
     },
     {
+      "ticker": "BF-B",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "BMI",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "AIR",
+      "ticker": "CB",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
-      "ticker": "BSCS",
+      "ticker": "BRO",
       "failed": [
-        "Game Theory"
+        "Analysis"
       ]
     },
     {
-      "ticker": "BSV",
+      "ticker": "POWW",
       "failed": [
-        "Game Theory"
+        "Analysis"
       ]
     },
     {
-      "ticker": "VGSH",
+      "ticker": "ICCC",
       "failed": [
-        "Game Theory"
+        "Analysis"
       ]
     },
     {
-      "ticker": "IGSB",
+      "ticker": "SJM",
       "failed": [
-        "Game Theory"
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "GPN",
+      "failed": [
+        "Analysis"
       ]
     }
   ]
