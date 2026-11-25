@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-24 18:43:55 (Hora Colombia)",
+  "checked_at": "2026-11-24 23:43:03 (Hora Colombia)",
   "regime": {
     "regime": "NEUTRAL",
     "icon": "\ud83d\udfe1",
@@ -10,8 +10,31 @@
     "drawdown_52w_pct": -7.74,
     "realized_vol_20d": 31.7
   },
-  "confirmed": 0,
-  "signals": [],
+  "confirmed": 1,
+  "signals": [
+    {
+      "ticker": "A",
+      "composite": 69,
+      "prob": 95,
+      "buffett": 85,
+      "mos": -69.6,
+      "rs_rank": 98,
+      "asof": "2026-11-24",
+      "live": null,
+      "status": null,
+      "max_chase": null,
+      "zones": {
+        "entry": 181.77,
+        "tp1": 187.61,
+        "tp2": 193.45,
+        "sl": 173.01
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses"
+      ]
+    }
+  ],
   "watchlist": [
     {
       "ticker": "DECK",
@@ -20,19 +43,7 @@
       ]
     },
     {
-      "ticker": "NXPI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "NXPI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "POWL",
+      "ticker": "STZ",
       "failed": [
         "Radar"
       ]
@@ -44,7 +55,31 @@
       ]
     },
     {
-      "ticker": "APH",
+      "ticker": "FHI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "CPAY",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "TOST",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SEZL",
+      "failed": [
+        "Entry Zones"
+      ]
+    },
+    {
+      "ticker": "CBOE",
       "failed": [
         "Radar"
       ]
@@ -56,25 +91,13 @@
       ]
     },
     {
-      "ticker": "MPWR",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "PGNY",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SEIC",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "ADP",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "AMGN",
       "failed": [
         "Analysis"
       ]
@@ -86,21 +109,21 @@
       ]
     },
     {
+      "ticker": "RCL",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "DG",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "YMM",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "REGN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ROKU",
-      "failed": [
-        "Entry Zones"
       ]
     }
   ]
